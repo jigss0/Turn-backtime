@@ -80,3 +80,4 @@ src/
   pages/                    full scenes/chapters (Intro, Opening, ...)
   App.tsx                   assembles the chapters in order
 ```
+
