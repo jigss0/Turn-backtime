@@ -105,7 +105,7 @@ export const features = {
   /** Show the background-music control */
   enableBackgroundMusic: true,
   /** Show the feature video chapter */
-  enableVideoSection: true,
+  enableVideoSection: false,
   /** Show the interactive night-sky chapter */
   enableNightSky: true,
 };
